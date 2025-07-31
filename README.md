@@ -30,12 +30,16 @@ The dashboard includes the following visuals:
 
 ✅ Key Insights
 📍 India recorded the highest sales (₹13.22 Cr).
+
 🥇 50% Dark & Bites and Almond Choco were top-selling products.
+
 👩‍💼 Prasanna Lakshmi Paiyamm was the top-performing salesperson.
 
 🧠 Learning Outcomes
 Gained experience in Excel dashboarding
+
 Improved skills in data visualization and storytelling
+
 Practiced real-world analysis on categorical, time-series, and sales data
 
 📬 Contact
