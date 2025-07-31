@@ -5,7 +5,8 @@ This project presents a comprehensive Excel-based dashboard visualizing global c
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+<img width="804" height="436" alt="GCSD ss" src="https://github.com/user-attachments/assets/5b208737-94e4-48fa-a468-7852a624fa99" />
+
 
 ## 📊 Dashboard Overview
 The dashboard includes the following visuals:
