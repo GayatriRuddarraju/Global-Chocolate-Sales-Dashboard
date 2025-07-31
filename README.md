@@ -1,4 +1,4 @@
-# Global-Chocolate-Sales-Dashboard
+# Global-Chocolate-Sales-Dashboard (Excel Project)
 # 🍫 Global Chocolate Sales Dashboard (Jan–Sep 2023)
 
 This project presents a comprehensive Excel-based dashboard visualizing global chocolate sales from January to September 2023. It includes insights by country, category, product, date, and salesperson.
