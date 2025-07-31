@@ -29,21 +29,18 @@ The dashboard includes the following visuals:
 2. Open the Global_Chocolate_Sales_Dashboard.xlsx file in Excel.
 3. View and interact with the dashboard to explore insights.
 
-✅ Key Insights
-📍 India recorded the highest sales (₹13.22 Cr).
+## ✅ Key Insights
+- 📍 **India** recorded the highest sales (₹13.22 Cr).
+- 🥇 **50% Dark & Bites** and **Almond Choco** were top-selling products.
+- 👩‍💼 **Prasanna Lakshmi Paiyamm** was the top-performing salesperson.
 
-🥇 50% Dark & Bites and Almond Choco were top-selling products.
+## 🧠 Learning Outcomes
+- Gained experience in Excel dashboarding
+- Improved skills in data visualization and storytelling
+- Practiced real-world analysis on categorical, time-series, and sales data
 
-👩‍💼 Prasanna Lakshmi Paiyamm was the top-performing salesperson.
+## 📬 Contact
 
-🧠 Learning Outcomes
-Gained experience in Excel dashboarding
+For questions or feedback, feel free to open an issue or connect via LinkedIn.
 
-Improved skills in data visualization and storytelling
-
-Practiced real-world analysis on categorical, time-series, and sales data
-
-📬 Contact
-For any questions or feedback, feel free to reach out via GitHub issues or LinkedIn.
-LinkedIn: www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
-
+LinkedIn Profile: www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
