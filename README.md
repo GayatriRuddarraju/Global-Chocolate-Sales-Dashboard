@@ -3,14 +3,42 @@
 
 This project presents a comprehensive Excel-based dashboard visualizing global chocolate sales from January to September 2023. It includes insights by country, category, product, date, and salesperson.
 
-## 📊 Dashboard Overview
+## 📸 Dashboard Preview
 
+![Dashboard Screenshot](images/dashboard.png)
+
+## 📊 Dashboard Overview
 The dashboard includes the following visuals:
 - **Sales by Country**: Line chart showing country-wise sales trends.
 - **Sales by Category**: Bar chart comparing chocolate sales across different categories.
 - **Sales by Date**: Time-series chart showing daily sales activity.
-- **Sales by Product**: Detailed pie chart highlighting individual product performance.
-- **Sales by Sales Person**: Horizontal bar chart ranking sales representatives by total sales.
+- **Sales by Product**: Pie chart highlighting individual product performance.
+- **Sales by Sales Person**: Bar chart ranking salespeople by total sales.
 
-## 📁 Project Structure
+
+## 🧰 Tools Used
+- **Microsoft Excel** – Used for data cleaning, analysis, and visualization
+- **Pivot Tables & Charts** – For building interactive visual components
+- **Power Query (Optional)** – For preprocessing the data (if applicable)
+
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Global-Chocolate-Sales-Dashboard.git 
+2. Open the Global_Chocolate_Sales_Dashboard.xlsx file in Excel.
+3. View and interact with the dashboard to explore insights.
+
+✅ Key Insights
+📍 India recorded the highest sales (₹13.22 Cr).
+🥇 50% Dark & Bites and Almond Choco were top-selling products.
+👩‍💼 Prasanna Lakshmi Paiyamm was the top-performing salesperson.
+
+🧠 Learning Outcomes
+Gained experience in Excel dashboarding
+Improved skills in data visualization and storytelling
+Practiced real-world analysis on categorical, time-series, and sales data
+
+📬 Contact
+For any questions or feedback, feel free to reach out via GitHub issues or LinkedIn.
+LinkedIn: www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
 
